@@ -1,2 +1,4 @@
 teste
 Etendendo o HEAD
+Texto modificado para Master
+Isso aqui também é do Master
